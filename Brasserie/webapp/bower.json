@@ -1,0 +1,23 @@
+{
+  "name": "brew",
+  "authors": [
+    "Théophile Gaudin <theophile.gaudin@alumni.epfl.ch>"
+  ],
+  "description": "Beer Brewing Machine",
+  "main": "",
+  "license": "BSD",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.5.1",
+    "foundation-sites": "^6.3.0"
+  }
+}
